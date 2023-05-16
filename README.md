@@ -13,11 +13,11 @@ The scraped news text is processed using NLTK and spaCy libraries for tasks such
 
 **Step 2:** Entity Extraction
 
-The spaCy model en_core_web_sm is used to extract entities like subject, object, and relationship from the preprocessed text.
+The spaCy model **en_core_web_sm** is used to extract entities like subject, object, and relationship from the preprocessed text.
 
 **Step 3:** Knowledge Graph Construction
 
-The extracted entities are plotted into a directed knowledge graph using the NetworkX library. The resulting graph is saved as a graph database file named knowledge_graph.graphml.
+The extracted entities are plotted into a directed knowledge graph using the NetworkX library. The resulting graph is saved as a graph database file named **knowledge_graph.graphml**.
 
 **Step 4:** Question Answering
 
