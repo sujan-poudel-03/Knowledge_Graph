@@ -1,0 +1,2031 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d0" for="edge" attr.name="relation" attr.type="string"/>
+<graph edgedefault="directed"><node id="system"/>
+<node id="revolution"/>
+<node id="majority"/>
+<node id="process"/>
+<node id="working parents"/>
+<node id="hard time"/>
+<node id="sector"/>
+<node id="digital revolution"/>
+<node id="team"/>
+<node id="Veda"/>
+<node id="students"/>
+<node id="time"/>
+<node id="parents"/>
+<node id="easier way"/>
+<node id="customisable features"/>
+<node id="platform"/>
+<node id="it"/>
+<node id="schools"/>
+<node id="that"/>
+<node id="Nepali companies"/>
+<node id="themselves"/>
+<node id="institution"/>
+<node id="systems"/>
+<node id="realisation"/>
+<node id="Nepal"/>
+<node id="presence"/>
+<node id="foreign schools"/>
+<node id="us"/>
+<node id="referrals"/>
+<node id="Dahal"/>
+<node id="Council"/>
+<node id="Yadav"/>
+<node id="charge"/>
+<node id="Chaudhary"/>
+<node id="responsibility"/>
+<node id="UML"/>
+<node id="government"/>
+<node id="ministry"/>
+<node id="leadership"/>
+<node id="Acharya"/>
+<node id="changes"/>
+<node id="Ministry"/>
+<node id="facts"/>
+<node id="statement"/>
+<node id="prime ministers"/>
+<node id="Koirala"/>
+<node id="prime former other ministers"/>
+<node id="Thapa"/>
+<node id="Prime ministers"/>
+<node id="delay"/>
+<node id="number"/>
+<node id="70"/>
+<node id="minister"/>
+<node id="office"/>
+<node id="Sharma"/>
+<node id="female ministers"/>
+<node id="cent"/>
+<node id="developed countries"/>
+<node id="Developed countries"/>
+<node id="economic power"/>
+<node id="multinational Many corporations"/>
+<node id="factories"/>
+<node id="corporations"/>
+<node id="low wages"/>
+<node id="neocolonialism"/>
+<node id="negative impact"/>
+<node id="investments"/>
+<node id="Neocolonialism"/>
+<node id="significant trauma"/>
+<node id="following measures:•"/>
+<node id="steps"/>
+<node id="Kathmandu"/>
+<node id="himself"/>
+<node id="Rayamajhi"/>
+<node id="special bureau"/>
+<node id="him"/>
+<node id="police"/>
+<node id="warrant"/>
+<node id="Rijal"/>
+<node id="need"/>
+<node id="country"/>
+<node id="announcement"/>
+<node id="experts"/>
+<node id="event"/>
+<node id="plenary sessions"/>
+<node id="Biratnagar"/>
+<node id="lot"/>
+<node id="16You"/>
+<node id="young man"/>
+<node id="everyone"/>
+<node id="family"/>
+<node id="long rites"/>
+<node id="dead man"/>
+<node id="reported information"/>
+<node id="sister"/>
+<node id="body"/>
+<node id="funeral"/>
+<node id="Karki"/>
+<node id="home"/>
+<node id="providers"/>
+<node id="fees"/>
+<node id="ISPs"/>
+<node id="tariff"/>
+<node id="electric service"/>
+<node id="Yatayat"/>
+<node id="Gauchan"/>
+<node id="call"/>
+<node id="doctors"/>
+<node id="Maloo"/>
+<node id="right discourses"/>
+<node id="place"/>
+<node id="“I"/>
+<node id="what"/>
+<node id="“You"/>
+<node id="more"/>
+<node id="regulators"/>
+<node id="anything"/>
+<node id="“Some"/>
+<node id="hands"/>
+<node id="accidents"/>
+<node id="pilots"/>
+<node id="Studies"/>
+<node id="donation"/>
+<node id="new cells"/>
+<node id="patient"/>
+<node id="transfusion"/>
+<node id="big market"/>
+<node id="news"/>
+<node id="many"/>
+<node id="Vipassana"/>
+<node id="special insight"/>
+<node id="passana"/>
+<node id="practitioners"/>
+<node id="attention"/>
+<node id="participants"/>
+<node id="period"/>
+<node id="retreats"/>
+<node id="periods"/>
+<node id="people"/>
+<node id="own culture"/>
+<node id="kind"/>
+<node id="charm"/>
+<node id="host"/>
+<node id="variety"/>
+<node id="community"/>
+<node id="Everest"/>
+<node id="Sherpa"/>
+<node id="record"/>
+<node id="Dawa"/>
+<node id="Price"/>
+<node id="permit"/>
+<node id="fixing team"/>
+<node id="summit"/>
+<node id="Nepali climbers"/>
+<node id="trekkers"/>
+<node id="multiple Pokharis"/>
+<node id="ones"/>
+<node id="single rooms"/>
+<node id="trekking route"/>
+<node id="path"/>
+<node id="trek"/>
+<node id="you"/>
+<node id="chance"/>
+<node id="great opportunity"/>
+<node id="modern amenities"/>
+<node id="experience"/>
+<node id="weeks"/>
+<node id="remote beauty"/>
+<node id="region"/>
+<node id="ancient several monasteries"/>
+<node id="mother"/>
+<node id="her"/>
+<node id="father"/>
+<node id="extreme"/>
+<node id="journey"/>
+<node id="vain"/>
+<node id="screened documentary"/>
+<node id="documentary"/>
+<node id="“Women"/>
+<node id="wonders"/>
+<node id="women"/>
+<node id="decade"/>
+<node id="director"/>
+<node id="Norbu"/>
+<node id="Lhamu"/>
+<node id="wife"/>
+<node id="history"/>
+<node id="life"/>
+<node id="“Dawa"/>
+<node id="much"/>
+<node id="them"/>
+<node id="Svendsen"/>
+<node id="Awards"/>
+<node id="Nepali women"/>
+<node id="owner"/>
+<node id="days"/>
+<node id="economic recent recession"/>
+<node id="business"/>
+<node id="shops"/>
+<node id="clothes"/>
+<node id="Bista"/>
+<node id="shop"/>
+<node id="Ale"/>
+<node id="pressure"/>
+<node id="person"/>
+<node id="me"/>
+<node id="recession"/>
+<node id="Banks"/>
+<node id="loans"/>
+<node id="many requests"/>
+<node id="“We"/>
+<node id="requests"/>
+<node id="many businesspersons"/>
+<node id="businesses"/>
+<node id="effects"/>
+<node id="services"/>
+<node id="15.39"/>
+<node id="policies"/>
+<node id="closed shutters"/>
+<node id="high rate"/>
+<node id="problems"/>
+<node id="protests"/>
+<node id="potential"/>
+<node id="Association"/>
+<node id="protest"/>
+<node id="judiciary"/>
+<node id="social significant change"/>
+<node id="public awareness"/>
+<node id="massive earthquake"/>
+<node id="groups"/>
+<node id="Court"/>
+<node id="Nepali groups"/>
+<node id="decision"/>
+<node id="international organisations"/>
+<node id="role"/>
+<node id="International organisations"/>
+<node id="technical assistance"/>
+<node id="coverage"/>
+<node id="awareness"/>
+<node id="support"/>
+<node id="countries"/>
+<node id="judicial systems"/>
+<node id="Office"/>
+<node id="tools"/>
+<node id="Day"/>
+<node id="related Different organisations"/>
+<node id="day"/>
+<node id="Shah"/>
+<node id="notable contribution"/>
+<node id="previous courts"/>
+<node id="Late kings"/>
+<node id="remarkable contributions"/>
+<node id="Dev"/>
+<node id="Tribhuvan"/>
+<node id="laws"/>
+<node id="highest court"/>
+<node id="own decisions"/>
+<node id="constitutions"/>
+<node id="elected Assembly"/>
+<node id="latest constitution"/>
+<node id="Dignitaries"/>
+<node id="awaited event"/>
+<node id="royal British family"/>
+<node id="close ties"/>
+<node id="diplomatic strong relations"/>
+<node id="treaty"/>
+<node id="peace"/>
+<node id="diplomatic first legation"/>
+<node id="BBC"/>
+<node id="prince"/>
+<node id="GBP"/>
+<node id="II"/>
+<node id="queen"/>
+<node id="homage"/>
+<node id="monarch"/>
+<node id="immense gratitude"/>
+<node id="Rana"/>
+<node id="Several kings"/>
+<node id="V"/>
+<node id="part"/>
+<node id="Diana"/>
+<node id="official visit"/>
+<node id="princess"/>
+<node id="concern"/>
+<node id="Harry"/>
+<node id="III"/>
+<node id="parade"/>
+<node id="efforts"/>
+<node id="season"/>
+<node id="peak"/>
+<node id="Beautiful flowers"/>
+<node id="roads"/>
+<node id="thousands"/>
+<node id="foreign plant"/>
+<node id="locals"/>
+<node id="interesting questions"/>
+<node id="easy answers"/>
+<node id="aristocrats"/>
+<node id="plant"/>
+<node id="flowers"/>
+<node id="botanists"/>
+<node id="shirish"/>
+<node id="dozens"/>
+<node id="Jacaranda"/>
+<node id="purple peculiar colour"/>
+<node id="Parijat"/>
+<node id="jacaranda"/>
+<node id="childhood"/>
+<node id="confusion"/>
+<node id="plants"/>
+<node id="names"/>
+<node id="detailed information"/>
+<node id="importance"/>
+<node id="botanical knowledge"/>
+<node id="uncontrolled growth"/>
+<node id="threats"/>
+<node id="changing Kathmandu"/>
+<node id="concerned authorities"/>
+<node id="study"/>
+<node id="most regions"/>
+<node id="rainfall"/>
+<node id="Department"/>
+<node id="outlook"/>
+<node id="likelihood"/>
+<node id="maximum higher temperatures"/>
+<node id="monsoon"/>
+<node id="mm"/>
+<node id="certain location"/>
+<node id="enough rainwater"/>
+<node id="regions"/>
+<node id="warmer temperatures"/>
+<node id="areas"/>
+<node id="drought"/>
+<node id="dry monsoon"/>
+<node id="free season"/>
+<node id="dry forecasted season"/>
+<node id="lower hazards"/>
+<node id="extreme Unpredictable events"/>
+<node id="compelling evidence"/>
+<node id="technological advancements"/>
+<node id="understanding"/>
+<node id="authorities"/>
+<node id="tragedy"/>
+<node id="rain"/>
+<node id="Long term"/>
+<node id="impending calamities"/>
+<node id="different systems"/>
+<node id="high chance"/>
+<node id="livelihood"/>
+<node id="Nino"/>
+<node id="dryness"/>
+<node id="WMO"/>
+<node id="India"/>
+<node id="arable ample land"/>
+<node id="settlements"/>
+<node id="agricultural areas"/>
+<node id="rulers"/>
+<node id="protection"/>
+<node id="valley"/>
+<node id="risk"/>
+<node id="Dakshinkali municipality"/>
+<node id="agricultural land"/>
+<node id="metropolitan city"/>
+<node id="municipalities"/>
+<node id="land"/>
+<node id="local governments"/>
+<node id="agricultural - agricultural land"/>
+<node id="questions"/>
+<node id="categories"/>
+<node id="all"/>
+<node id="most governments"/>
+<node id="enough homework"/>
+<node id="mafia"/>
+<node id="message"/>
+<node id="federal government"/>
+<node id="rural municipalities"/>
+<node id="arable land"/>
+<node id="mistakes"/>
+<node id="Shrestha"/>
+<node id="road"/>
+<node id="private sector"/>
+<node id="billions"/>
+<node id="management"/>
+<node id="solution"/>
+<node id="18"/>
+<node id="company"/>
+<node id="gratitude"/>
+<node id="official recognition"/>
+<node id="concerned officials"/>
+<node id="Citroën"/>
+<node id="compact SUV"/>
+<node id="car"/>
+<node id="many people"/>
+<node id="winning car"/>
+<node id="C3"/>
+<node id="same language"/>
+<node id="handles"/>
+<node id="prices"/>
+<node id="rear windows"/>
+<node id="own windows"/>
+<node id="good amount"/>
+<node id="console"/>
+<node id="few compartments"/>
+<node id="pads"/>
+<node id="impressive performance"/>
+<node id="engine"/>
+<node id="displacement"/>
+<node id="balance"/>
+<node id="efficiency"/>
+<node id="rating"/>
+<node id="smooth shifts"/>
+<node id="front brakes"/>
+<node id="efficient power"/>
+<node id="rear brakes"/>
+<node id="braking reliable performance"/>
+<node id="safety"/>
+<node id="sensors"/>
+<node id="driver"/>
+<node id="EBD"/>
+<node id="distribution"/>
+<node id="global rating"/>
+<node id="SHM"/>
+<node id="most"/>
+<node id="EV"/>
+<node id="sleek design"/>
+<node id="colour"/>
+<node id="bar"/>
+<node id="latest scores"/>
+<node id="external sensors"/>
+<node id="simple design"/>
+<node id="back seats"/>
+<node id="personal own screen"/>
+<node id="passengers"/>
+<node id="personal own preference"/>
+<node id="progress"/>
+<node id="cost"/>
+<node id="N55"/>
+<node id="design"/>
+<node id="phone"/>
+<node id="boxy design"/>
+<node id="chipset"/>
+<node id="variant"/>
+<node id="extra option"/>
+<node id="rear camera"/>
+<node id="excellent photos"/>
+<node id="videos"/>
+<node id="capable camera"/>
+<node id="different perspectives"/>
+<node id="good"/>
+<node id="new phones"/>
+<node id="image"/>
+<node id="G"/>
+<node id="beautiful design"/>
+<node id="magic option"/>
+<node id="changing glass"/>
+<node id="aura"/>
+<node id="light"/>
+<node id="lights"/>
+<node id="users"/>
+<node id="nice pictures"/>
+<node id="AMOLED technology"/>
+<node id="deep blacks"/>
+<node id="display"/>
+<node id="rate"/>
+<node id="CPU"/>
+<node id="cores"/>
+<node id="OS"/>
+<node id="own Funtouch"/>
+<node id="triple setup"/>
+<node id="remaining sensors"/>
+<node id="camera"/>
+<node id="rear system"/>
+<node id="various modes"/>
+<node id="front camera"/>
+<node id="similar various modes"/>
+<node id="strategy"/>
+<node id="Nothing"/>
+<node id="case"/>
+<node id="bit"/>
+<node id="same light"/>
+<node id="Ear"/>
+<node id="buds"/>
+<node id="control"/>
+<node id="controls"/>
+<node id="music"/>
+<node id="single press"/>
+<node id="app"/>
+<node id="sensitivity"/>
+<node id="Users"/>
+<node id="option"/>
+<node id="adaptive mode"/>
+<node id="distractions"/>
+<node id="ANC"/>
+<node id="background"/>
+<node id="feature"/>
+<node id="earbuds"/>
+<node id="multiple codecs"/>
+<node id="audio"/>
+<node id="frequencies"/>
+<node id="capacity"/>
+<node id="charging case"/>
+<node id="hours"/>
+<node id="charging convenient options"/>
+<node id="cable"/>
+<node id="seamless connectivity"/>
+<node id="workshop"/>
+<node id="deep concerns"/>
+<node id="Khand"/>
+<node id="Gurung"/>
+<node id="warrants"/>
+<node id="new bill"/>
+<node id="Bill"/>
+<node id="new parliament"/>
+<node id="first meeting"/>
+<node id="ordinance"/>
+<node id="sentence"/>
+<node id="Ruling parties"/>
+<node id="school"/>
+<node id="flak"/>
+<node id="fact"/>
+<node id="other many schools"/>
+<node id="Children"/>
+<node id="fear"/>
+<node id="stops"/>
+<node id="actions"/>
+<node id="shaming students"/>
+<node id="answers"/>
+<node id="Bhandari"/>
+<node id="extra classes"/>
+<node id="basic teaching"/>
+<node id="teachers"/>
+<node id="strengths"/>
+<node id="interests"/>
+<node id="condition"/>
+<node id="disability"/>
+<node id="unique challenges"/>
+<node id="collaboration"/>
+<node id="significant opportunity"/>
+<node id="Regional networking"/>
+<node id="diversity"/>
+<node id="Regional networks"/>
+<node id="exchange"/>
+<node id="Organization"/>
+<node id="lack"/>
+<node id="technology"/>
+<node id="dissemination"/>
+<node id="significant difference"/>
+<node id="Allocating resources"/>
+<node id="financial resources"/>
+<node id="governments"/>
+<node id="formation"/>
+<node id="crucial strategies"/>
+<node id="stakeholders"/>
+<node id="inclusion"/>
+<node id="instructor"/>
+<node id="class"/>
+<node id="mind"/>
+<node id="League"/>
+<node id="goals"/>
+<node id="Bangladesh"/>
+<node id="league"/>
+<node id="enough"/>
+<node id="exposure"/>
+<node id="opportunities"/>
+<node id="Kerala"/>
+<node id="players"/>
+<node id="ANFA"/>
+<node id="Players"/>
+<node id="things"/>
+<node id="ugly turn"/>
+<node id="hot host"/>
+<node id="second round"/>
+<node id="football"/>
+<node id="proper structure"/>
+<node id="Qualifier"/>
+<node id="CAN"/>
+<node id="ICC"/>
+<node id="schedule"/>
+<node id="States"/>
+<node id="Cup"/>
+<node id="bilateral series"/>
+<node id="Africa"/>
+<node id="African countries"/>
+<node id="similar weather"/>
+<node id="ambassador"/>
+<node id="SAFF"/>
+<node id="approach"/>
+<node id="Jha"/>
+<node id="one"/>
+<node id="more boundaries"/>
+<node id="runs"/>
+<node id="obliteration"/>
+<node id="belief"/>
+<node id="UAE"/>
+<node id="hand"/>
+<node id="cricketers"/>
+<node id="drama"/>
+<node id="quick wickets"/>
+<node id="match"/>
+<node id="left hander"/>
+<node id="bowlers"/>
+<node id="Khadka"/>
+<node id="pain"/>
+<node id="best teams"/>
+<node id="opportunity"/>
+<node id="fearless cricket"/>
+<node id="way"/>
+<node id="international equipped stadium"/>
+<node id="participation"/>
+<node id="prize"/>
+<node id="standard procedure"/>
+<node id="500,000"/>
+<node id="plan"/>
+<node id="necessary money"/>
+<node id="Thousands"/>
+<node id="tourists"/>
+<node id="various activities"/>
+<node id="international various actors"/>
+<node id="Onlinekhabar"/>
+<node id="watching films"/>
+<node id="Uunchai"/>
+<node id="story"/>
+<node id="features"/>
+<node id="actors"/>
+<node id="Strange"/>
+<node id="Cumberbatch"/>
+<node id="film"/>
+<node id="Danny"/>
+<node id="Baharwali"/>
+<node id="protagonist"/>
+<node id="girl"/>
+<node id="title"/>
+<node id="Krishna"/>
+<node id="Narcissus"/>
+<node id="challenges"/>
+<node id="band"/>
+<node id="albums"/>
+<node id="songs"/>
+<node id="video"/>
+<node id="views"/>
+<node id="singer"/>
+<node id="beloved"/>
+<node id="Temple"/>
+<node id="couple"/>
+<node id="Nepalis"/>
+<node id="song"/>
+<node id="new version"/>
+<node id="feeling"/>
+<node id="Ajambari"/>
+<node id="beautiful video"/>
+<node id="masterclass"/>
+<edge source="system" target="revolution">
+  <data key="d0">needs</data>
+</edge>
+<edge source="majority" target="process">
+  <data key="d0">undertaking</data>
+</edge>
+<edge source="working parents" target="hard time">
+  <data key="d0">have</data>
+</edge>
+<edge source="sector" target="digital revolution">
+  <data key="d0">awaits</data>
+</edge>
+<edge source="sector" target="cent">
+  <data key="d0">contribute</data>
+</edge>
+<edge source="team" target="Veda">
+  <data key="d0">introduced</data>
+</edge>
+<edge source="team" target="realisation">
+  <data key="d0">took</data>
+</edge>
+<edge source="team" target="Sherpa">
+  <data key="d0">guide</data>
+</edge>
+<edge source="team" target="it">
+  <data key="d0">done</data>
+</edge>
+<edge source="team" target="bilateral series">
+  <data key="d0">playing</data>
+</edge>
+<edge source="team" target="Africa">
+  <data key="d0">visit</data>
+</edge>
+<edge source="team" target="runs">
+  <data key="d0">scored</data>
+</edge>
+<edge source="team" target="one">
+  <data key="d0">displayed</data>
+</edge>
+<edge source="team" target="best teams">
+  <data key="d0">take</data>
+</edge>
+<edge source="team" target="opportunity">
+  <data key="d0">had</data>
+</edge>
+<edge source="Veda" target="customisable features">
+  <data key="d0">includes</data>
+</edge>
+<edge source="Veda" target="systems">
+  <data key="d0">brought</data>
+</edge>
+<edge source="Veda" target="presence">
+  <data key="d0">made</data>
+</edge>
+<edge source="students" target="time">
+  <data key="d0">save</data>
+</edge>
+<edge source="parents" target="easier way">
+  <data key="d0">have</data>
+</edge>
+<edge source="platform" target="it">
+  <data key="d0">abridged</data>
+</edge>
+<edge source="schools" target="that">
+  <data key="d0">using</data>
+</edge>
+<edge source="schools" target="referrals">
+  <data key="d0">give</data>
+</edge>
+<edge source="schools" target="platform">
+  <data key="d0">acknowledge</data>
+</edge>
+<edge source="schools" target="basic teaching">
+  <data key="d0">run</data>
+</edge>
+<edge source="schools" target="condition">
+  <data key="d0">accept</data>
+</edge>
+<edge source="Nepali companies" target="themselves">
+  <data key="d0">limited</data>
+</edge>
+<edge source="institution" target="that">
+  <data key="d0">need</data>
+</edge>
+<edge source="Nepal" target="that">
+  <data key="d0">saw</data>
+</edge>
+<edge source="Nepal" target="following measures:•">
+  <data key="d0">follow</data>
+</edge>
+<edge source="Nepal" target="steps">
+  <data key="d0">take</data>
+</edge>
+<edge source="Nepal" target="announcement">
+  <data key="d0">awaits</data>
+</edge>
+<edge source="Nepal" target="big market">
+  <data key="d0">has</data>
+</edge>
+<edge source="Nepal" target="multiple Pokharis">
+  <data key="d0">has</data>
+</edge>
+<edge source="Nepal" target="Day">
+  <data key="d0">marks</data>
+</edge>
+<edge source="Nepal" target="constitutions">
+  <data key="d0">has</data>
+</edge>
+<edge source="Nepal" target="diplomatic strong relations">
+  <data key="d0">had</data>
+</edge>
+<edge source="Nepal" target="treaty">
+  <data key="d0">signed</data>
+</edge>
+<edge source="Nepal" target="diplomatic first legation">
+  <data key="d0">established</data>
+</edge>
+<edge source="Nepal" target="enough">
+  <data key="d0">doing</data>
+</edge>
+<edge source="Nepal" target="UAE">
+  <data key="d0">bowled</data>
+</edge>
+<edge source="Nepal" target="hand">
+  <data key="d0">laid</data>
+</edge>
+<edge source="Nepal" target="match">
+  <data key="d0">won</data>
+</edge>
+<edge source="Nepal" target="opportunity">
+  <data key="d0">have</data>
+</edge>
+<edge source="Nepal" target="it">
+  <data key="d0">retained</data>
+</edge>
+<edge source="foreign schools" target="us">
+  <data key="d0">approached</data>
+</edge>
+<edge source="Dahal" target="Council">
+  <data key="d0">expanding</data>
+</edge>
+<edge source="Dahal" target="ministry">
+  <data key="d0">led</data>
+</edge>
+<edge source="Dahal" target="Koirala">
+  <data key="d0">led</data>
+</edge>
+<edge source="Dahal" target="concerned officials">
+  <data key="d0">directed</data>
+</edge>
+<edge source="Council" target="Sharma">
+  <data key="d0">includes</data>
+</edge>
+<edge source="Council" target="CAN">
+  <data key="d0">emailed</data>
+</edge>
+<edge source="Yadav" target="charge">
+  <data key="d0">took</data>
+</edge>
+<edge source="Yadav" target="leadership">
+  <data key="d0">took</data>
+</edge>
+<edge source="Chaudhary" target="responsibility">
+  <data key="d0">got</data>
+</edge>
+<edge source="Chaudhary" target="sentence">
+  <data key="d0">serving</data>
+</edge>
+<edge source="UML" target="government">
+  <data key="d0">left</data>
+</edge>
+<edge source="UML" target="Rayamajhi">
+  <data key="d0">suspended</data>
+</edge>
+<edge source="government" target="policies">
+  <data key="d0">bring</data>
+</edge>
+<edge source="government" target="decision">
+  <data key="d0">make</data>
+</edge>
+<edge source="government" target="flowers">
+  <data key="d0">planted</data>
+</edge>
+<edge source="government" target="it">
+  <data key="d0">announce</data>
+</edge>
+<edge source="government" target="them">
+  <data key="d0">preserve</data>
+</edge>
+<edge source="government" target="road">
+  <data key="d0">builds</data>
+</edge>
+<edge source="government" target="Bill">
+  <data key="d0">registered</data>
+</edge>
+<edge source="government" target="ordinance">
+  <data key="d0">brought</data>
+</edge>
+<edge source="government" target="prize">
+  <data key="d0">announced</data>
+</edge>
+<edge source="Acharya" target="leadership">
+  <data key="d0">took</data>
+</edge>
+<edge source="changes" target="Ministry">
+  <data key="d0">weakened</data>
+</edge>
+<edge source="facts" target="statement">
+  <data key="d0">support</data>
+</edge>
+<edge source="prime ministers" target="ministry">
+  <data key="d0">led</data>
+</edge>
+<edge source="Koirala" target="BBC">
+  <data key="d0">told</data>
+</edge>
+<edge source="prime former other ministers" target="ministry">
+  <data key="d0">headed</data>
+</edge>
+<edge source="Thapa" target="ministry">
+  <data key="d0">led</data>
+</edge>
+<edge source="Prime ministers" target="delay">
+  <data key="d0">indicate</data>
+</edge>
+<edge source="number" target="70">
+  <data key="d0">reached</data>
+</edge>
+<edge source="number" target="18">
+  <data key="d0">reached</data>
+</edge>
+<edge source="minister" target="office">
+  <data key="d0">assumed</data>
+</edge>
+<edge source="office" target="many requests">
+  <data key="d0">getting</data>
+</edge>
+<edge source="female ministers" target="cent">
+  <data key="d0">make</data>
+</edge>
+<edge source="developed countries" target="that">
+  <data key="d0">exert</data>
+</edge>
+<edge source="Developed countries" target="economic power">
+  <data key="d0">use</data>
+</edge>
+<edge source="Developed countries" target="investments">
+  <data key="d0">prioritise</data>
+</edge>
+<edge source="multinational Many corporations" target="factories">
+  <data key="d0">established</data>
+</edge>
+<edge source="corporations" target="low wages">
+  <data key="d0">pay</data>
+</edge>
+<edge source="neocolonialism" target="negative impact">
+  <data key="d0">had</data>
+</edge>
+<edge source="Neocolonialism" target="significant trauma">
+  <data key="d0">inflict</data>
+</edge>
+<edge source="Kathmandu" target="himself">
+  <data key="d0">surrendered</data>
+</edge>
+<edge source="Kathmandu" target="Rayamajhi">
+  <data key="d0">arrested</data>
+</edge>
+<edge source="Kathmandu" target="electric service">
+  <data key="d0">expanding</data>
+</edge>
+<edge source="Kathmandu" target="Everest">
+  <data key="d0">14Summiting</data>
+</edge>
+<edge source="Kathmandu" target="workshop">
+  <data key="d0">running</data>
+</edge>
+<edge source="Kathmandu" target="deep concerns">
+  <data key="d0">expressed</data>
+</edge>
+<edge source="Kathmandu" target="new bill">
+  <data key="d0">introduced</data>
+</edge>
+<edge source="Kathmandu" target="Qualifier">
+  <data key="d0">hosting</data>
+</edge>
+<edge source="Kathmandu" target="participation">
+  <data key="d0">finalised</data>
+</edge>
+<edge source="Kathmandu" target="prize">
+  <data key="d0">announced</data>
+</edge>
+<edge source="special bureau" target="him">
+  <data key="d0">arrested</data>
+</edge>
+<edge source="police" target="warrant">
+  <data key="d0">received</data>
+</edge>
+<edge source="police" target="dead man">
+  <data key="d0">found</data>
+</edge>
+<edge source="police" target="reported information">
+  <data key="d0">disseminated</data>
+</edge>
+<edge source="police" target="people">
+  <data key="d0">arrested</data>
+</edge>
+<edge source="police" target="Khand">
+  <data key="d0">arrested</data>
+</edge>
+<edge source="police" target="warrants">
+  <data key="d0">received</data>
+</edge>
+<edge source="Rijal" target="need">
+  <data key="d0">highlighted</data>
+</edge>
+<edge source="country" target="sector">
+  <data key="d0">better</data>
+</edge>
+<edge source="country" target="trekkers">
+  <data key="d0">sees</data>
+</edge>
+<edge source="country" target="international equipped stadium">
+  <data key="d0">have</data>
+</edge>
+<edge source="experts" target="need">
+  <data key="d0">emphasise</data>
+</edge>
+<edge source="event" target="plenary sessions">
+  <data key="d0">held</data>
+</edge>
+<edge source="event" target="place">
+  <data key="d0">take</data>
+</edge>
+<edge source="Biratnagar" target="lot">
+  <data key="d0">seen</data>
+</edge>
+<edge source="16You" target="lot">
+  <data key="d0">seen</data>
+</edge>
+<edge source="young man" target="everyone">
+  <data key="d0">surprised</data>
+</edge>
+<edge source="family" target="long rites">
+  <data key="d0">completed</data>
+</edge>
+<edge source="family" target="funeral">
+  <data key="d0">performed</data>
+</edge>
+<edge source="family" target="them">
+  <data key="d0">have</data>
+</edge>
+<edge source="sister" target="body">
+  <data key="d0">identified</data>
+</edge>
+<edge source="body" target="new cells">
+  <data key="d0">produce</data>
+</edge>
+<edge source="Karki" target="home">
+  <data key="d0">reached</data>
+</edge>
+<edge source="providers" target="fees">
+  <data key="d0">increased</data>
+</edge>
+<edge source="ISPs" target="fees">
+  <data key="d0">increase</data>
+</edge>
+<edge source="ISPs" target="tariff">
+  <data key="d0">increase</data>
+</edge>
+<edge source="Yatayat" target="electric service">
+  <data key="d0">expanding</data>
+</edge>
+<edge source="Gauchan" target="call">
+  <data key="d0">received</data>
+</edge>
+<edge source="doctors" target="Maloo">
+  <data key="d0">assessed</data>
+</edge>
+<edge source="right discourses" target="place">
+  <data key="d0">taking</data>
+</edge>
+<edge source="“I" target="what">
+  <data key="d0">remember</data>
+</edge>
+<edge source="“You" target="more">
+  <data key="d0">learn</data>
+</edge>
+<edge source="regulators" target="anything">
+  <data key="d0">do</data>
+</edge>
+<edge source="“Some" target="hands">
+  <data key="d0">broken</data>
+</edge>
+<edge source="accidents" target="place">
+  <data key="d0">taking</data>
+</edge>
+<edge source="pilots" target="time">
+  <data key="d0">have</data>
+</edge>
+<edge source="Studies" target="donation">
+  <data key="d0">shown</data>
+</edge>
+<edge source="patient" target="transfusion">
+  <data key="d0">needs</data>
+</edge>
+<edge source="news" target="many">
+  <data key="d0">left</data>
+</edge>
+<edge source="Vipassana" target="special insight">
+  <data key="d0">means</data>
+</edge>
+<edge source="passana" target="special insight">
+  <data key="d0">means</data>
+</edge>
+<edge source="practitioners" target="attention">
+  <data key="d0">focus</data>
+</edge>
+<edge source="participants" target="period">
+  <data key="d0">dedicate</data>
+</edge>
+<edge source="retreats" target="periods">
+  <data key="d0">involve</data>
+</edge>
+<edge source="people" target="own culture">
+  <data key="d0">have</data>
+</edge>
+<edge source="people" target="permit">
+  <data key="d0">obtained</data>
+</edge>
+<edge source="people" target="jacaranda">
+  <data key="d0">perceive</data>
+</edge>
+<edge source="people" target="different perspectives">
+  <data key="d0">have</data>
+</edge>
+<edge source="kind" target="charm">
+  <data key="d0">losing</data>
+</edge>
+<edge source="host" target="variety">
+  <data key="d0">serve</data>
+</edge>
+<edge source="community" target="it">
+  <data key="d0">conceptualised</data>
+</edge>
+<edge source="Everest" target="story">
+  <data key="d0">depicts</data>
+</edge>
+<edge source="Sherpa" target="record">
+  <data key="d0">equalled</data>
+</edge>
+<edge source="Sherpa" target="extreme">
+  <data key="d0">chose</data>
+</edge>
+<edge source="Dawa" target="Price">
+  <data key="d0">guided</data>
+</edge>
+<edge source="fixing team" target="summit">
+  <data key="d0">reached</data>
+</edge>
+<edge source="Nepali climbers" target="summit">
+  <data key="d0">reached</data>
+</edge>
+<edge source="trekkers" target="remote beauty">
+  <data key="d0">experience</data>
+</edge>
+<edge source="ones" target="single rooms">
+  <data key="d0">have</data>
+</edge>
+<edge source="trekking route" target="path">
+  <data key="d0">follows</data>
+</edge>
+<edge source="trek" target="you">
+  <data key="d0">takes</data>
+</edge>
+<edge source="trek" target="chance">
+  <data key="d0">gives</data>
+</edge>
+<edge source="trek" target="great opportunity">
+  <data key="d0">gives</data>
+</edge>
+<edge source="trek" target="weeks">
+  <data key="d0">takes</data>
+</edge>
+<edge source="trek" target="people">
+  <data key="d0">requires</data>
+</edge>
+<edge source="modern amenities" target="experience">
+  <data key="d0">make</data>
+</edge>
+<edge source="region" target="ancient several monasteries">
+  <data key="d0">has</data>
+</edge>
+<edge source="mother" target="her">
+  <data key="d0">told</data>
+</edge>
+<edge source="mother" target="life">
+  <data key="d0">risking</data>
+</edge>
+<edge source="father" target="her">
+  <data key="d0">told</data>
+</edge>
+<edge source="journey" target="vain">
+  <data key="d0">go</data>
+</edge>
+<edge source="screened documentary" target="that">
+  <data key="d0">tells</data>
+</edge>
+<edge source="documentary" target="us">
+  <data key="d0">takes</data>
+</edge>
+<edge source="documentary" target="decade">
+  <data key="d0">took</data>
+</edge>
+<edge source="“Women" target="wonders">
+  <data key="d0">done</data>
+</edge>
+<edge source="women" target="Everest">
+  <data key="d0">climbed</data>
+</edge>
+<edge source="director" target="Norbu">
+  <data key="d0">tracked</data>
+</edge>
+<edge source="Norbu" target="masterclass">
+  <data key="d0">give</data>
+</edge>
+<edge source="Lhamu" target="cent">
+  <data key="d0">sold</data>
+</edge>
+<edge source="wife" target="history">
+  <data key="d0">create</data>
+</edge>
+<edge source="“Dawa" target="much">
+  <data key="d0">learned</data>
+</edge>
+<edge source="Svendsen" target="Awards">
+  <data key="d0">told</data>
+</edge>
+<edge source="Nepali women" target="Everest">
+  <data key="d0">climbed</data>
+</edge>
+<edge source="owner" target="days">
+  <data key="d0">has</data>
+</edge>
+<edge source="economic recent recession" target="business">
+  <data key="d0">dried</data>
+</edge>
+<edge source="shops" target="clothes">
+  <data key="d0">selling</data>
+</edge>
+<edge source="Bista" target="shop">
+  <data key="d0">sold</data>
+</edge>
+<edge source="Ale" target="pressure">
+  <data key="d0">feeling</data>
+</edge>
+<edge source="person" target="me">
+  <data key="d0">told</data>
+</edge>
+<edge source="recession" target="place">
+  <data key="d0">taking</data>
+</edge>
+<edge source="Banks" target="loans">
+  <data key="d0">handing</data>
+</edge>
+<edge source="“We" target="requests">
+  <data key="d0">getting</data>
+</edge>
+<edge source="“We" target="fearless cricket">
+  <data key="d0">play</data>
+</edge>
+<edge source="many businesspersons" target="businesses">
+  <data key="d0">shutting</data>
+</edge>
+<edge source="effects" target="sector">
+  <data key="d0">reaching</data>
+</edge>
+<edge source="services" target="15.39">
+  <data key="d0">contributed</data>
+</edge>
+<edge source="closed shutters" target="pressure">
+  <data key="d0">put</data>
+</edge>
+<edge source="high rate" target="problems">
+  <data key="d0">caused</data>
+</edge>
+<edge source="protests" target="potential">
+  <data key="d0">have</data>
+</edge>
+<edge source="protests" target="social significant change">
+  <data key="d0">brought</data>
+</edge>
+<edge source="protests" target="public awareness">
+  <data key="d0">raise</data>
+</edge>
+<edge source="Association" target="protest">
+  <data key="d0">staged</data>
+</edge>
+<edge source="judiciary" target="protests">
+  <data key="d0">faces</data>
+</edge>
+<edge source="massive earthquake" target="Nepal">
+  <data key="d0">struck</data>
+</edge>
+<edge source="groups" target="protests">
+  <data key="d0">organised</data>
+</edge>
+<edge source="Court" target="government">
+  <data key="d0">ordered</data>
+</edge>
+<edge source="Nepali groups" target="protests">
+  <data key="d0">organised</data>
+</edge>
+<edge source="decision" target="questions">
+  <data key="d0">raised</data>
+</edge>
+<edge source="international organisations" target="role">
+  <data key="d0">play</data>
+</edge>
+<edge source="International organisations" target="technical assistance">
+  <data key="d0">provide</data>
+</edge>
+<edge source="International organisations" target="support">
+  <data key="d0">provide</data>
+</edge>
+<edge source="coverage" target="awareness">
+  <data key="d0">raise</data>
+</edge>
+<edge source="coverage" target="attention">
+  <data key="d0">bring</data>
+</edge>
+<edge source="countries" target="judicial systems">
+  <data key="d0">strengthen</data>
+</edge>
+<edge source="countries" target="peace">
+  <data key="d0">maintain</data>
+</edge>
+<edge source="countries" target="efforts">
+  <data key="d0">making</data>
+</edge>
+<edge source="Office" target="tools">
+  <data key="d0">developed</data>
+</edge>
+<edge source="related Different organisations" target="day">
+  <data key="d0">celebrating</data>
+</edge>
+<edge source="Shah" target="notable contribution">
+  <data key="d0">made</data>
+</edge>
+<edge source="Shah" target="previous courts">
+  <data key="d0">abolished</data>
+</edge>
+<edge source="Late kings" target="remarkable contributions">
+  <data key="d0">made</data>
+</edge>
+<edge source="Dev" target="remarkable contributions">
+  <data key="d0">made</data>
+</edge>
+<edge source="Tribhuvan" target="laws">
+  <data key="d0">introduced</data>
+</edge>
+<edge source="highest court" target="own decisions">
+  <data key="d0">revise</data>
+</edge>
+<edge source="elected Assembly" target="latest constitution">
+  <data key="d0">promulgated</data>
+</edge>
+<edge source="Dignitaries" target="awaited event">
+  <data key="d0">attending</data>
+</edge>
+<edge source="royal British family" target="close ties">
+  <data key="d0">has</data>
+</edge>
+<edge source="prince" target="GBP">
+  <data key="d0">sent</data>
+</edge>
+<edge source="II" target="Nepal">
+  <data key="d0">visited</data>
+</edge>
+<edge source="II" target="parade">
+  <data key="d0">attended</data>
+</edge>
+<edge source="queen" target="homage">
+  <data key="d0">paid</data>
+</edge>
+<edge source="monarch" target="immense gratitude">
+  <data key="d0">expressed</data>
+</edge>
+<edge source="Rana" target="royal British family">
+  <data key="d0">visited</data>
+</edge>
+<edge source="Rana" target="plant">
+  <data key="d0">brought</data>
+</edge>
+<edge source="Several kings" target="Nepal">
+  <data key="d0">visited</data>
+</edge>
+<edge source="V" target="part">
+  <data key="d0">took</data>
+</edge>
+<edge source="Diana" target="official visit">
+  <data key="d0">paid</data>
+</edge>
+<edge source="princess" target="concern">
+  <data key="d0">showed</data>
+</edge>
+<edge source="Harry" target="Nepal">
+  <data key="d0">visited</data>
+</edge>
+<edge source="III" target="role">
+  <data key="d0">took</data>
+</edge>
+<edge source="season" target="peak">
+  <data key="d0">reaches</data>
+</edge>
+<edge source="Beautiful flowers" target="roads">
+  <data key="d0">tarred</data>
+</edge>
+<edge source="thousands" target="foreign plant">
+  <data key="d0">mistake</data>
+</edge>
+<edge source="locals" target="it">
+  <data key="d0">mistake</data>
+</edge>
+<edge source="interesting questions" target="easy answers">
+  <data key="d0">have</data>
+</edge>
+<edge source="aristocrats" target="plant">
+  <data key="d0">brought</data>
+</edge>
+<edge source="botanists" target="them">
+  <data key="d0">registered</data>
+</edge>
+<edge source="shirish" target="dozens">
+  <data key="d0">has</data>
+</edge>
+<edge source="Jacaranda" target="purple peculiar colour">
+  <data key="d0">has</data>
+</edge>
+<edge source="Parijat" target="jacaranda">
+  <data key="d0">identifies</data>
+</edge>
+<edge source="Parijat" target="childhood">
+  <data key="d0">spent</data>
+</edge>
+<edge source="confusion" target="plants">
+  <data key="d0">forced</data>
+</edge>
+<edge source="names" target="detailed information">
+  <data key="d0">carry</data>
+</edge>
+<edge source="names" target="importance">
+  <data key="d0">hold</data>
+</edge>
+<edge source="names" target="botanical knowledge">
+  <data key="d0">hold</data>
+</edge>
+<edge source="uncontrolled growth" target="threats">
+  <data key="d0">pose</data>
+</edge>
+<edge source="changing Kathmandu" target="role">
+  <data key="d0">has</data>
+</edge>
+<edge source="concerned authorities" target="study">
+  <data key="d0">launch</data>
+</edge>
+<edge source="most regions" target="rainfall">
+  <data key="d0">have</data>
+</edge>
+<edge source="most regions" target="likelihood">
+  <data key="d0">have</data>
+</edge>
+<edge source="Department" target="outlook">
+  <data key="d0">released</data>
+</edge>
+<edge source="Department" target="official recognition">
+  <data key="d0">get</data>
+</edge>
+<edge source="outlook" target="maximum higher temperatures">
+  <data key="d0">predicts</data>
+</edge>
+<edge source="monsoon" target="mm">
+  <data key="d0">brings</data>
+</edge>
+<edge source="monsoon" target="livelihood">
+  <data key="d0">destroy</data>
+</edge>
+<edge source="certain location" target="enough rainwater">
+  <data key="d0">receives</data>
+</edge>
+<edge source="regions" target="warmer temperatures">
+  <data key="d0">have</data>
+</edge>
+<edge source="areas" target="drought">
+  <data key="d0">face</data>
+</edge>
+<edge source="areas" target="rain">
+  <data key="d0">experienced</data>
+</edge>
+<edge source="areas" target="arable ample land">
+  <data key="d0">had</data>
+</edge>
+<edge source="dry monsoon" target="free season">
+  <data key="d0">mean</data>
+</edge>
+<edge source="dry forecasted season" target="lower hazards">
+  <data key="d0">means</data>
+</edge>
+<edge source="extreme Unpredictable events" target="compelling evidence">
+  <data key="d0">provided</data>
+</edge>
+<edge source="technological advancements" target="understanding">
+  <data key="d0">enhanced</data>
+</edge>
+<edge source="authorities" target="people">
+  <data key="d0">advise</data>
+</edge>
+<edge source="tragedy" target="that">
+  <data key="d0">strike</data>
+</edge>
+<edge source="Long term" target="impending calamities">
+  <data key="d0">predict</data>
+</edge>
+<edge source="different systems" target="high chance">
+  <data key="d0">suggest</data>
+</edge>
+<edge source="Nino" target="dryness">
+  <data key="d0">cause</data>
+</edge>
+<edge source="WMO" target="India">
+  <data key="d0">placed</data>
+</edge>
+<edge source="settlements" target="agricultural areas">
+  <data key="d0">increased</data>
+</edge>
+<edge source="rulers" target="protection">
+  <data key="d0">prioritising</data>
+</edge>
+<edge source="valley" target="risk">
+  <data key="d0">seeing</data>
+</edge>
+<edge source="Dakshinkali municipality" target="agricultural land">
+  <data key="d0">declared</data>
+</edge>
+<edge source="metropolitan city" target="areas">
+  <data key="d0">listed</data>
+</edge>
+<edge source="municipalities" target="land">
+  <data key="d0">declared</data>
+</edge>
+<edge source="municipalities" target="categories">
+  <data key="d0">finalised</data>
+</edge>
+<edge source="municipalities" target="cent">
+  <data key="d0">set</data>
+</edge>
+<edge source="municipalities" target="all">
+  <data key="d0">classified</data>
+</edge>
+<edge source="local governments" target="agricultural - agricultural land">
+  <data key="d0">separated</data>
+</edge>
+<edge source="local governments" target="mistakes">
+  <data key="d0">made</data>
+</edge>
+<edge source="local governments" target="problems">
+  <data key="d0">facing</data>
+</edge>
+<edge source="most governments" target="enough homework">
+  <data key="d0">do</data>
+</edge>
+<edge source="mafia" target="role">
+  <data key="d0">played</data>
+</edge>
+<edge source="mafia" target="message">
+  <data key="d0">spread</data>
+</edge>
+<edge source="federal government" target="system">
+  <data key="d0">introduced</data>
+</edge>
+<edge source="rural municipalities" target="arable land">
+  <data key="d0">determined</data>
+</edge>
+<edge source="Shrestha" target="need">
+  <data key="d0">stresses</data>
+</edge>
+<edge source="private sector" target="billions">
+  <data key="d0">taken</data>
+</edge>
+<edge source="management" target="solution">
+  <data key="d0">give</data>
+</edge>
+<edge source="company" target="gratitude">
+  <data key="d0">expressed</data>
+</edge>
+<edge source="Citroën" target="compact SUV">
+  <data key="d0">brought</data>
+</edge>
+<edge source="car" target="many people">
+  <data key="d0">pulled</data>
+</edge>
+<edge source="car" target="progress">
+  <data key="d0">making</data>
+</edge>
+<edge source="winning car" target="what">
+  <data key="d0">boasts</data>
+</edge>
+<edge source="C3" target="same language">
+  <data key="d0">has</data>
+</edge>
+<edge source="C3" target="prices">
+  <data key="d0">cut</data>
+</edge>
+<edge source="C3" target="good amount">
+  <data key="d0">has</data>
+</edge>
+<edge source="C3" target="impressive performance">
+  <data key="d0">delivers</data>
+</edge>
+<edge source="C3" target="smooth shifts">
+  <data key="d0">offers</data>
+</edge>
+<edge source="C3" target="safety">
+  <data key="d0">prioritises</data>
+</edge>
+<edge source="C3" target="global rating">
+  <data key="d0">achieved</data>
+</edge>
+<edge source="handles" target="handles">
+  <data key="d0">grab</data>
+</edge>
+<edge source="rear windows" target="own windows">
+  <data key="d0">have</data>
+</edge>
+<edge source="console" target="few compartments">
+  <data key="d0">has</data>
+</edge>
+<edge source="pads" target="good amount">
+  <data key="d0">have</data>
+</edge>
+<edge source="engine" target="displacement">
+  <data key="d0">has</data>
+</edge>
+<edge source="engine" target="balance">
+  <data key="d0">strikes</data>
+</edge>
+<edge source="efficiency" target="rating">
+  <data key="d0">achieves</data>
+</edge>
+<edge source="front brakes" target="efficient power">
+  <data key="d0">offer</data>
+</edge>
+<edge source="rear brakes" target="braking reliable performance">
+  <data key="d0">provide</data>
+</edge>
+<edge source="sensors" target="driver">
+  <data key="d0">assist</data>
+</edge>
+<edge source="EBD" target="distribution">
+  <data key="d0">optimises</data>
+</edge>
+<edge source="SHM" target="most">
+  <data key="d0">revealed</data>
+</edge>
+<edge source="SHM" target="cost">
+  <data key="d0">disclosed</data>
+</edge>
+<edge source="EV" target="sleek design">
+  <data key="d0">have</data>
+</edge>
+<edge source="EV" target="colour">
+  <data key="d0">have</data>
+</edge>
+<edge source="EV" target="external sensors">
+  <data key="d0">have</data>
+</edge>
+<edge source="EV" target="simple design">
+  <data key="d0">have</data>
+</edge>
+<edge source="bar" target="latest scores">
+  <data key="d0">act</data>
+</edge>
+<edge source="back seats" target="personal own screen">
+  <data key="d0">have</data>
+</edge>
+<edge source="passengers" target="personal own preference">
+  <data key="d0">enjoy</data>
+</edge>
+<edge source="N55" target="design">
+  <data key="d0">boasts</data>
+</edge>
+<edge source="N55" target="chipset">
+  <data key="d0">packs</data>
+</edge>
+<edge source="N55" target="capable camera">
+  <data key="d0">has</data>
+</edge>
+<edge source="N55" target="good">
+  <data key="d0">do</data>
+</edge>
+<edge source="phone" target="boxy design">
+  <data key="d0">has</data>
+</edge>
+<edge source="variant" target="extra option">
+  <data key="d0">has</data>
+</edge>
+<edge source="rear camera" target="excellent photos">
+  <data key="d0">captures</data>
+</edge>
+<edge source="rear camera" target="videos">
+  <data key="d0">record</data>
+</edge>
+<edge source="rear camera" target="aura">
+  <data key="d0">features</data>
+</edge>
+<edge source="new phones" target="image">
+  <data key="d0">retain</data>
+</edge>
+<edge source="G" target="beautiful design">
+  <data key="d0">has</data>
+</edge>
+<edge source="G" target="triple setup">
+  <data key="d0">has</data>
+</edge>
+<edge source="magic option" target="changing glass">
+  <data key="d0">has</data>
+</edge>
+<edge source="light" target="lights">
+  <data key="d0">has</data>
+</edge>
+<edge source="users" target="nice pictures">
+  <data key="d0">click</data>
+</edge>
+<edge source="users" target="hours">
+  <data key="d0">enjoy</data>
+</edge>
+<edge source="users" target="earbuds">
+  <data key="d0">charge</data>
+</edge>
+<edge source="AMOLED technology" target="deep blacks">
+  <data key="d0">produces</data>
+</edge>
+<edge source="display" target="rate">
+  <data key="d0">has</data>
+</edge>
+<edge source="CPU" target="cores">
+  <data key="d0">features</data>
+</edge>
+<edge source="OS" target="own Funtouch">
+  <data key="d0">includes</data>
+</edge>
+<edge source="remaining sensors" target="camera">
+  <data key="d0">include</data>
+</edge>
+<edge source="rear system" target="various modes">
+  <data key="d0">supports</data>
+</edge>
+<edge source="front camera" target="similar various modes">
+  <data key="d0">supports</data>
+</edge>
+<edge source="strategy" target="Nothing">
+  <data key="d0">led</data>
+</edge>
+<edge source="case" target="bit">
+  <data key="d0">has</data>
+</edge>
+<edge source="case" target="same light">
+  <data key="d0">has</data>
+</edge>
+<edge source="Ear" target="buds">
+  <data key="d0">has</data>
+</edge>
+<edge source="Ear" target="control">
+  <data key="d0">take</data>
+</edge>
+<edge source="Ear" target="charging convenient options">
+  <data key="d0">offer</data>
+</edge>
+<edge source="Ear" target="seamless connectivity">
+  <data key="d0">offer</data>
+</edge>
+<edge source="buds" target="music">
+  <data key="d0">pause</data>
+</edge>
+<edge source="buds" target="capacity">
+  <data key="d0">have</data>
+</edge>
+<edge source="controls" target="sensors">
+  <data key="d0">have</data>
+</edge>
+<edge source="single press" target="music">
+  <data key="d0">pause</data>
+</edge>
+<edge source="app" target="sensitivity">
+  <data key="d0">analyse</data>
+</edge>
+<edge source="app" target="feature">
+  <data key="d0">has</data>
+</edge>
+<edge source="Users" target="option">
+  <data key="d0">have</data>
+</edge>
+<edge source="adaptive mode" target="distractions">
+  <data key="d0">detects</data>
+</edge>
+<edge source="ANC" target="background">
+  <data key="d0">silence</data>
+</edge>
+<edge source="earbuds" target="multiple codecs">
+  <data key="d0">support</data>
+</edge>
+<edge source="earbuds" target="frequencies">
+  <data key="d0">support</data>
+</edge>
+<edge source="earbuds" target="charging convenient options">
+  <data key="d0">offer</data>
+</edge>
+<edge source="earbuds" target="cable">
+  <data key="d0">use</data>
+</edge>
+<edge source="earbuds" target="seamless connectivity">
+  <data key="d0">offer</data>
+</edge>
+<edge source="audio" target="frequencies">
+  <data key="d0">support</data>
+</edge>
+<edge source="charging case" target="capacity">
+  <data key="d0">has</data>
+</edge>
+<edge source="Gurung" target="Rayamajhi">
+  <data key="d0">directed</data>
+</edge>
+<edge source="new parliament" target="first meeting">
+  <data key="d0">held</data>
+</edge>
+<edge source="Ruling parties" target="efforts">
+  <data key="d0">making</data>
+</edge>
+<edge source="school" target="flak">
+  <data key="d0">received</data>
+</edge>
+<edge source="fact" target="concern">
+  <data key="d0">raises</data>
+</edge>
+<edge source="other many schools" target="students">
+  <data key="d0">mistreat</data>
+</edge>
+<edge source="Children" target="fear">
+  <data key="d0">develop</data>
+</edge>
+<edge source="stops" target="questions">
+  <data key="d0">answering</data>
+</edge>
+<edge source="actions" target="potential">
+  <data key="d0">have</data>
+</edge>
+<edge source="shaming students" target="answers">
+  <data key="d0">provide</data>
+</edge>
+<edge source="Bhandari" target="extra classes">
+  <data key="d0">considers</data>
+</edge>
+<edge source="Bhandari" target="League">
+  <data key="d0">lighting</data>
+</edge>
+<edge source="Bhandari" target="goals">
+  <data key="d0">scored</data>
+</edge>
+<edge source="Bhandari" target="Kerala">
+  <data key="d0">playing</data>
+</edge>
+<edge source="teachers" target="strengths">
+  <data key="d0">identify</data>
+</edge>
+<edge source="teachers" target="interests">
+  <data key="d0">explore</data>
+</edge>
+<edge source="disability" target="unique challenges">
+  <data key="d0">presents</data>
+</edge>
+<edge source="collaboration" target="significant opportunity">
+  <data key="d0">presents</data>
+</edge>
+<edge source="Regional networking" target="diversity">
+  <data key="d0">leverage</data>
+</edge>
+<edge source="Regional networks" target="exchange">
+  <data key="d0">foster</data>
+</edge>
+<edge source="Organization" target="importance">
+  <data key="d0">recognises</data>
+</edge>
+<edge source="lack" target="efforts">
+  <data key="d0">complicates</data>
+</edge>
+<edge source="technology" target="efforts">
+  <data key="d0">complicates</data>
+</edge>
+<edge source="dissemination" target="significant difference">
+  <data key="d0">make</data>
+</edge>
+<edge source="Allocating resources" target="financial resources">
+  <data key="d0">allocate</data>
+</edge>
+<edge source="governments" target="financial resources">
+  <data key="d0">allocate</data>
+</edge>
+<edge source="formation" target="crucial strategies">
+  <data key="d0">constitute</data>
+</edge>
+<edge source="stakeholders" target="inclusion">
+  <data key="d0">guarantee</data>
+</edge>
+<edge source="instructor" target="us">
+  <data key="d0">advising</data>
+</edge>
+<edge source="instructor" target="class">
+  <data key="d0">concludes</data>
+</edge>
+<edge source="mind" target="place">
+  <data key="d0">seeks</data>
+</edge>
+<edge source="Bangladesh" target="league">
+  <data key="d0">announced</data>
+</edge>
+<edge source="exposure" target="opportunities">
+  <data key="d0">get</data>
+</edge>
+<edge source="opportunities" target="way">
+  <data key="d0">come</data>
+</edge>
+<edge source="players" target="part">
+  <data key="d0">take</data>
+</edge>
+<edge source="players" target="500,000">
+  <data key="d0">get</data>
+</edge>
+<edge source="ANFA" target="League">
+  <data key="d0">conducted</data>
+</edge>
+<edge source="Players" target="part">
+  <data key="d0">took</data>
+</edge>
+<edge source="things" target="ugly turn">
+  <data key="d0">took</data>
+</edge>
+<edge source="things" target="hot host">
+  <data key="d0">took</data>
+</edge>
+<edge source="things" target="second round">
+  <data key="d0">took</data>
+</edge>
+<edge source="football" target="proper structure">
+  <data key="d0">had</data>
+</edge>
+<edge source="ICC" target="schedule">
+  <data key="d0">announced</data>
+</edge>
+<edge source="States" target="Cup">
+  <data key="d0">hosting</data>
+</edge>
+<edge source="African countries" target="similar weather">
+  <data key="d0">have</data>
+</edge>
+<edge source="ambassador" target="efforts">
+  <data key="d0">making</data>
+</edge>
+<edge source="SAFF" target="approach">
+  <data key="d0">adopted</data>
+</edge>
+<edge source="Jha" target="one">
+  <data key="d0">hit</data>
+</edge>
+<edge source="Jha" target="more boundaries">
+  <data key="d0">hit</data>
+</edge>
+<edge source="Jha" target="chance">
+  <data key="d0">has</data>
+</edge>
+<edge source="obliteration" target="belief">
+  <data key="d0">gave</data>
+</edge>
+<edge source="UAE" target="quick wickets">
+  <data key="d0">picked</data>
+</edge>
+<edge source="cricketers" target="drama">
+  <data key="d0">love</data>
+</edge>
+<edge source="cricketers" target="experience">
+  <data key="d0">gained</data>
+</edge>
+<edge source="left hander" target="bowlers">
+  <data key="d0">dominated</data>
+</edge>
+<edge source="Khadka" target="pain">
+  <data key="d0">feels</data>
+</edge>
+<edge source="standard procedure" target="it">
+  <data key="d0">has</data>
+</edge>
+<edge source="plan" target="necessary money">
+  <data key="d0">allocate</data>
+</edge>
+<edge source="Thousands" target="Nepal">
+  <data key="d0">visit</data>
+</edge>
+<edge source="tourists" target="various activities">
+  <data key="d0">perform</data>
+</edge>
+<edge source="international various actors" target="Nepal">
+  <data key="d0">visit</data>
+</edge>
+<edge source="Onlinekhabar" target="watching films">
+  <data key="d0">brought</data>
+</edge>
+<edge source="Onlinekhabar" target="songs">
+  <data key="d0">brought</data>
+</edge>
+<edge source="Uunchai" target="story">
+  <data key="d0">depicts</data>
+</edge>
+<edge source="features" target="actors">
+  <data key="d0">famed</data>
+</edge>
+<edge source="Strange" target="Cumberbatch">
+  <data key="d0">features</data>
+</edge>
+<edge source="film" target="Danny">
+  <data key="d0">stars</data>
+</edge>
+<edge source="film" target="story">
+  <data key="d0">portrays</data>
+</edge>
+<edge source="film" target="Nepal">
+  <data key="d0">establishes</data>
+</edge>
+<edge source="Baharwali" target="story">
+  <data key="d0">depicts</data>
+</edge>
+<edge source="protagonist" target="girl">
+  <data key="d0">meets</data>
+</edge>
+<edge source="title" target="it">
+  <data key="d0">tells</data>
+</edge>
+<edge source="Krishna" target="you">
+  <data key="d0">takes</data>
+</edge>
+<edge source="Narcissus" target="challenges">
+  <data key="d0">depicts</data>
+</edge>
+<edge source="band" target="albums">
+  <data key="d0">released</data>
+</edge>
+<edge source="video" target="views">
+  <data key="d0">has</data>
+</edge>
+<edge source="video" target="Nepalis">
+  <data key="d0">showcases</data>
+</edge>
+<edge source="singer" target="beloved">
+  <data key="d0">requesting</data>
+</edge>
+<edge source="singer" target="feeling">
+  <data key="d0">expresses</data>
+</edge>
+<edge source="Temple" target="couple">
+  <data key="d0">done</data>
+</edge>
+<edge source="Temple" target="new version">
+  <data key="d0">released</data>
+</edge>
+<edge source="song" target="views">
+  <data key="d0">has</data>
+</edge>
+<edge source="Ajambari" target="beautiful video">
+  <data key="d0">has</data>
+</edge>
+</graph></graphml>
