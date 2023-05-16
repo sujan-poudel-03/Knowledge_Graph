@@ -2,7 +2,7 @@
 This repository contains the code for extracting entities from news text, building a knowledge graph, and performing question answering based on the graph.
 
 **Scraping Code**
-The initial step involved scraping news text from the website https://english.onlinekhabar.com/ using the Beautiful Soup library. The code for web scraping can be found in the Scraping_Code.ipynb file.
+The initial step involved scraping news text from the website https://english.onlinekhabar.com/ using the Beautiful Soup library. The code for web scraping can be found in the **Scraping_Code.ipynb** file.
 
 **Knowledge Graph Notebook**
 The **Knowledge_Graph.ipynb** notebook contains the following steps:
